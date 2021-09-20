@@ -3,9 +3,6 @@ function functionPrintInfo(name,age) {
     console.log(name,age);
 }
 functionPrintInfo("John","23");
-function functionPrintInfo(name,age) {
-    console.log(name,age);
-}  
 functionPrintInfo("Michael","43");
 // Write code above this line
 
